@@ -1,0 +1,106 @@
+
+
+
+--------------------agile et scrum---------------------
+
+https://blog.trello.com/fr/methode-agile-scrum-gestion-projet
+
+-------------proactivité-----------------------
+https://www.ticsante.com/story/2583/informatique-une-surveillance-reseau-proactive-permet-d-eviter-de-se-lever-a-3-heures-du-matin.html
+
+---------------c'est quoi le monitoring----------------------
+https://www.tdh.ch/sites/default/files/tdh_gmm_fr_nouvelleversion_fr.pdf
+https://fr.wikipedia.org/wiki/Surveillance_(informatique)
+https://www.appvizer.fr/magazine/services-informatiques/supervision-reseau/monitoring-reseau-4-outils-pour-detecter-les-anomalies
+
+
+-----------------------------buildDashboard----------------------------------------
+https://www.microfocus.com/en-us/products/operations-bridge-suite/overview
+https://www.microfocus.com/en-us/products/operations-bridge-manager/free-trial
+
+
+-----------zabbixx +jira----------------------------------------
+https://www.zabbix.com/integrations/jira
+
+-------------installation check_mk-------------------------------------------
+
+https://checkmk.com/download/Marco_Reale_Check_MK_Beginner_guide.pdf
+
+https://www.grenode.net/Documentation_technique/Divers/Supervision-checkmk/
+https://dumas.ccsd.cnrs.fr/dumas-01305578/document
+
+https://www.teamviewer.com/fr/telecharger/linux/
+
+----------------failover------------------
+https://truepathtechnologies.com/high-availability-using-the-check_mk-appliance/
+
+---------------Automatisation---------------------
+https://blog.d2si.io/2015/07/08/commande-guide-automatisation/
+
+--------------------ssi informatique--------------------------------
+http://www.conseil-informatique.com/la-securisation-des-reseaux-en-tant-que-base-de-votre-systeme-dinformation/
+
+-----------------------SIEM----------------------------------
+https://www.nbs-system.com/hebergement-web/hebergement-securise/quest-quun-siem/
+https://fr.wikibooks.org/wiki/S%C3%A9curit%C3%A9_des_syst%C3%A8mes_informatiques/S%C3%A9curit%C3%A9_informatique/Centralisation_des_traces
+https://www.linkedin.com/pulse/le-siem-ce-mirage-de-la-s%C3%A9curit%C3%A9-informatique-cyrille-herdhuin/
+https://blog.bssi.fr/siem-ssi/
+https://www.sartagas.fr/outils-de-la-ssi/securite-de-l-exploitation/les-outils-siem/
+https://www.logpoint.com/fr/comprendre/quest-ce-que-le-siem/
+https://www.logpoint.com/fr/comprendre/top-10-use-cases-to-implement/
+https://download.manageengine.com/log-management/the-absolute-guide-to-siem.pdf
+https://www.domaintools.com/resources/white-papers/siem-buyers-guide?_bt=396725301768&_bk=siem%20solution&_bm=b&_bn=g&_bg=86206512840&utm_source=Google&utm_medium=cpc&utm_campaign=86206512840&gclid=Cj0KCQiAvc_xBRCYARIsAC5QT9nJjKlzanihYqtv-sc-KA0rJc5ITpIujHjvrp6m7wMqhYwMoMY0wXkaAugcEALw_wcB#
+
+https://docplayer.fr/3644313-Conception-d-un-projet-siem-la-securite-des-systemes-d-information.html  "très important"
+	-----------------------------------------
+https://www.synetis.com/siem-vue-unique-systeme-dinformation/
+https://www.clevernetsystems.com/nos-services/correlation-de-logs/
+https://www.capensis.fr/canopsis/
+https://coservit.com/servicenav/fr/hypervision-informatique/
+https://solutionsreview.com/security-information-event-management/the-10-best-open-source-siem-tools-for-businesses/
+https://coservit.com/servicenav/fr/fonctionnalites-supervision-informatique/
+
+https://www.alma.fr/nos-activites/systemes-et-reseaux/solutions/glpi-gestion-inventaire-de-parc/
+https://www.solarwinds.com/fr/topics/servicenow-integration
+
+-------------------------SIEM TRES IMPORTANT---------------------
+https://www.dnsstuff.com/free-siem-tools
+https://connect.ed-diamond.com/MISC/MISC-094/ELK-un-SIEM-a-prendre-au-serieux
+https://connect.ed-diamond.com/MISC/MISC-069/SIEM-IDS-l-union-fait-elle-la-force
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+https://www.solarwinds.com/fr/free-tools
+https://www.solarwinds.com/fr/free-tools/active-directory-admin-tools-bundle
+
+---------------ITIL------------------------------
+http://www.itilfrance.com/pages/docs/hgelun/itilv3_introduction.pdf
+https://www.editions-eni.fr/open/mediabook.aspx?idR=4cfab9a685a82d4bee040c79e1b145c4
+
+
+-------------------etude comparative----------------------------------------------------
+
+https://www.gartner.com/reviews/market/it-infrastructure-monitoring-tools/compare/Zabbix-vs-paessler
+https://www.getapp.com/it-management-software/a/zabbix/compare/check-mk/
+https://sourceforge.net/software/compare/Check_MK-vs-Nagios-XI-vs-Zabbix-Monitoring-Solution-vs-ManageEngine-OpManager/
+https://sourceforge.net/software/compare/Check_MK-vs-Nagios-XI-vs-Zabbix-Monitoring-Solution-vs-Pulseway/
+https://www.doc-developpement-durable.org/file/Projets-informatiques/cours-&-manuels-informatiques/ITIL/Support%20ITILV3%20V%203.2.pdf
+
+
+--------------------------------------freenas------------------------------------------------------------------
+https://www.durindel.fr/tutoriel-configuration-de-freenas
+http://www.octetmalin.net/linux/tutoriels/freenas-installation-et-configuration-d-un-nas.php#installation-de-freenas
+
+---------------------topologie-----------------------------------------
+
+https://www.supinfo.com/articles/single/7300-differentes-topologies-reseaux
+
+-----------------------------------switch-------------------------------------------------
+https://www.blackbox.be/wa-be/page/26222/Resources/Technical-Resources/Black-Box-Explains/lan/the-difference-between-unmanaged-managed-and-websmart-switches
+
+----------------------------------------zabbix-------------------------------
+https://zabbixonly.com/
+
+------------------------Dimensionnement Pfsense-------------------
+https://www.provya.net/?d=2018/10/16/11/53/32-pfsense-bien-choisir-et-dimensionner-son-firewall
+https://www.certilience.fr/2018/03/tutoriel-deploiement-pfsense-pare-feu-opensource/

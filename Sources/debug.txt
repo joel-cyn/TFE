@@ -1,0 +1,39 @@
+-------------------debug-------------------------------- 
+
+-----------------sur zsdb -------------
+1) changer le mot de passe du root enfin qu'il permette l'acces en ssh  et autoriser (permitlogin "yes") commenter bindaddress
+https://kerneltalks.com/tools/how-to-start-stop-restart-mariadb-server-in-linux/ (reinitialiser mysl "service mysql restart" et mariadb)
+
+
+-------------------------------------------très important------------------------------------
+
+https://yallalabs.com/linux/how-to-configure-a-high-availability-zabbi-server-using-pacemaker-on-centos-7-rhel-7/ (rajouter listenip et après installation des resources disable zabbix-server)
+
+https://zabbixonly.com/how-to-configure-high-availability-ha-zabbix-server-on-ubuntu-18-04/
+
+-----------------sur zs1 et zs2---
+faire attention au firewalld(bien installer et autoriser http, port 10051/10050 et service high-availability)
+
+----------open ssh------
+https://howtoinstall.co/en/ubuntu/xenial/openssh-server?action=remove
+
+----------------reset passwd root-------------
+https://phoenixnap.com/kb/change-root-password-ubuntu
+
+------------------firewalld------------------
+https://computingforgeeks.com/install-and-use-firewalld-on-ubuntu-18-04-ubuntu-16-04/
+
+
+https://video.search.yahoo.com/search/video;_ylt=AwrDQyluBcNeRTUAqgr7w8QF;_ylu=X3oDMTBsbm03aXNtBHNlYwNzZWFyY2gEdnRpZANDMDExNQ--;_ylc=X1MDOTY3ODEzMDcEX3IDMgRhY3RuA2NsawRjc3JjcHZpZAMxLkd0SFRFd0xqRUV3dDRqWGtQY213U3FPREV1TVFBQUFBQkpva0QwBGZyA21jYWZlZV91bmludGVybmF0aW9uYWwEZnIyA3NhLWdwBGdwcmlkA1pkY2NYN2tOUzdPYVN1MkZKY2EuNEEEbl9yc2x0AzYwBG5fc3VnZwMxBG9yaWdpbgN2aWRlby5zZWFyY2gueWFob28uY29tBHBvcwMwBHBxc3RyAwRwcXN0cmwDBHFzdHJsAzI4BHF1ZXJ5A3N0YXJ0JTIwemFiYmktYWdlbnQlMjB1YnVudHUEdF9zdG1wAzE1ODk4MzkyNDI-?p=start+zabbi-agent+ubuntu&ei=UTF-8&fr2=p%3As%2Cv%3Av%2Cm%3Asa&fr=mcafee_uninternational#id=8&vid=3012983880f89521484fba226f12bcf4&action=view
+
+
+https://computingforgeeks.com/how-to-install-and-configure-zabbix-agent-on-ubuntu-18-04/
+
+
+
+--------------------------trigger and items--------------------------------------
+https://video.search.yahoo.com/search/video;_ylt=A0geJaDGRMxe22sAKTVXNyoA;_ylu=X3oDMTE0YmZmMW8wBGNvbG8DYmYxBHBvcwMxBHZ0aWQDQzAwNzBfMQRzZWMDcGl2cw--?p=add+triggers+on+zabbix&fr2=piv-web&fr=mcafee_uninternational#id=1&vid=6ab74b5c987ca7628c02d2bc8478d624&action=view
+
+----------------discovery hosts--------------------------------------------
+
+https://video.search.yahoo.com/search/video;_ylt=A0geJaDGRMxe22sAKTVXNyoA;_ylu=X3oDMTE0YmZmMW8wBGNvbG8DYmYxBHBvcwMxBHZ0aWQDQzAwNzBfMQRzZWMDcGl2cw--?p=add+triggers+on+zabbix&fr2=piv-web&fr=mcafee_uninternational#id=12&vid=477c2d804d117face5bbc9ea9efaf67b&action=view
